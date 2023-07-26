@@ -7,7 +7,7 @@ use PDOException;
 
 $host = 'localhost';
 $username = 'root';
-$password = '123456';
+$password = '';
 $dbname = 'message_sender';
 
 try {
